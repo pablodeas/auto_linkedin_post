@@ -1,0 +1,22 @@
+Humane is selling most of its company to HP for $116 million and will stop selling AI Pin, the company announced today.
+
+AI Pins that have already been purchased will continue to function normally until 3PM ET on February 28th, Humane says in a support document. After that date, Pins will “no longer connect to Humane’s servers.” As a result, AI Pin features will “no longer include calling, messaging, AI queries / responses, or cloud access.” Humane is also encouraging users to download any pictures, videos, and notes stored on their Pins before they are permanently deleted at that shutdown time.
+
+Related
+The Humane AI Pin never had a chance
+Humane AI Pin review: not even close
+After the shutdown, offline features like “battery level” will still work, Humane says, but “any function that requires cloud connectivity like voice interactions, AI responses, and .Center access” will not.
+
+Humane will only offer refunds on AI Pins that are “within the 90-day return window from their original shipment date,” according to an FAQ about the shutdown. Refunds “must be submitted by February 27th, 2025.” If you have paid for a Humane subscription past February 28th, Humane says “..we will process a prorated refund.”
+
+Anyone who had been waiting for a replacement charging case following its recall will “automatically receive a refund for the portion of your original purchase price that was allocated to the Charge Case after February 28, 2025.”
+
+HP is buying Humane’s CosmOS, bringing on Humane technical staff, and will get more than 300 patents and patent applications, Humane says in its press release.
+
+Ahead of the AI Pin’s official launch, Humane hyped up the device with an onstage demo at TED that left us with a lot of questions and a reveal video that it had to update to address a big error. The Pin finally launched in April 2024 to scathing reviews; The Verge’s David Pierce said that “it just doesn’t work,” and MKBHD called it “the worst product I’ve ever reviewed.”
+
+Humane reportedly started looking for a buyer shortly after the launch of the AI Pin at a price as high as $1 billion — a lot more than the $116 million acquisition price announced today. And the AI Pin appears to have sold quite poorly, with The Verge reporting in August that daily returns were outpacing sales. Humane cut the price of the Pin in October.
+
+And while Humane did end up adding some new features to the AI Pin’s CosmOS software, the company also appeared to be attempting a pivot to positioning CosmOS as an operating system other companies could put into their gadgets and devices.
+
+Bloomberg reports that “Humane’s team, including founders Imran Chaudhri and Bethany Bongiorno, will form a new division at HP to help integrate artificial intelligence into the company’s personal computers, printers and connected conference rooms,” per an HP executive. The new team will be called HP IQ, which will be “HP’s new AI innovation lab focused on building an intelligent ecosystem across HP’s products and services for the future of work,” according to an HP press release.

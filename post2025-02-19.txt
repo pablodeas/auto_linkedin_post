@@ -1,0 +1,13 @@
+A linguagem de programação Python é conhecida por sua versatilidade, eficiência e ampla adoção em vários domínios. Aqui estão os 5 principais fatos importantes sobre Python:
+
+1. **História de longa data**: foi criada em 1987, tornando-se uma linguagem de programação de longa data com mais de uma década de existência.
+
+2. **Facilidade de aprendizado**: Python é amigável e fácil de escrever, exigindo conhecimento mínimo de sintaxe em comparação com algumas linguagens mais antigas.
+
+3. **Eficiência para tarefas simples**: Python se destaca em lidar com operações repetitivas de forma eficiente, com velocidades de execução comparáveis ​​às linguagens compiladas.
+
+4. **Suporte orientado a objetos**: sua sintaxe permite a criação flexível de objetos, oferecendo mais flexibilidade do que as linguagens tradicionais orientadas a objetos desde 1960.
+
+5. **Natureza de código aberto**: Python é gratuito para usar e modificar, promovendo uma comunidade vibrante por meio de plataformas como GitHub e Bitbucket, o que aprimora a colaboração e a inovação.
+
+Esses fatos destacam o apelo duradouro do Python, suas aplicações práticas em todos os setores e a comunidade de apoio que impulsiona seu crescimento contínuo.
